@@ -1,0 +1,47 @@
+/* Base Layout */
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #fafafa;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-weight: 600;
+}
+
+p {
+    margin: 0 0 0 0.5rem 0;
+}
+
+/* Utility Spacing */
+.mt-2 {
+    margin-top: 0.5rem;
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
+
+.mt-4 {
+    margin-top: 1.5rem;
+}
+
+.mb-2 {
+    margin-top: 0.5rem;
+}
+
+.mb-3 {
+    margin-top: 1rem;
+}
+
+.mb-4 {
+    margin-top: 1.5rem;
+}
